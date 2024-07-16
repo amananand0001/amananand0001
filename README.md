@@ -8,9 +8,6 @@
 - 🖥️ Coding in Python, C, and more
 - 🌐 Web Development
 - 💻 Open Source Contributions
-- 🖋️ Logo Design
-- 📷 Photo Editing
-- 🎬 Motion Graphics
 
 Committed to personal and professional development, I believe in the importance of hands-on experience and continuous learning.
 
