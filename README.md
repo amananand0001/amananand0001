@@ -15,6 +15,9 @@
 Committed to personal and professional development, I believe in the importance of hands-on experience and continuous learning.
 
 📝 Always up for a coding challenge or collaborating on exciting projects. Let's connect and explore the world of tech together! 📩
+
 📫 Email me: amananandc11@gmail.com
+
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/aman-anand-a193a5248)https://www.linkedin.com/in/aman-anand-a193a5248
+
 📷 Follow me on Instagram: https://instagram.com/_aman_anand_001?igshid=NzZlODBkYWE4Ng==
