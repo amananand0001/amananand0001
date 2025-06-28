@@ -1,12 +1,12 @@
 <h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Aman Anand</samp></h2>
-<h3 align="center"><samp>A software developer from India</samp> </h3>
+
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 <!-- Badge -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amananand0001&label=Profile%20views&color=0e75b6&style=flat" alt="amananand0001" /> </p>
 
 
 <div style="margin-bottom: 200px;"></div>
